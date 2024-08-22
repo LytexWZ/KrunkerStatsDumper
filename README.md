@@ -1,16 +1,16 @@
 # Krunker Stats Dumper
-Krunker stats dumper is a python project designed to automate the recovery of krunker player statistics.
+Krunker Stats Dumper is a python project designed to automate the recovery of krunker player statistics.
 
-This project uses a not official API to get the values from https://krunker.io/social.html?p=profile&q= and it adds them to a new txt file. The tool is able to handle  ~100 inputs inside a txt file before getting blocked by captcha. 
+This project uses an unofficial API to get the values from https://krunker.io/social.html?p=profile&q= and it adds them to a new .txt file. The tool is able to handle approximately 100 inputs inside a .txt file before getting blocked by captcha. 
 
-Use different txt files if you have more than 100 inputs
+Use different .txt files if you have more than 100 inputs
 
 ![image](https://github.com/user-attachments/assets/99fb173c-a6e9-4685-b9d1-7857910cc90d)
 
 
 # Usage 
 
-1- Download or clone this repo in any location you want
+1- Download or clone this repository in any location you want
 
 2- Run start.bat to start the tool
 
@@ -31,7 +31,7 @@ If you don't have the password of the account, you can just type *"Nil"* in the 
 
 # Output handling
 
-The script will add a string in the console once it has processed the account, this are all the outputs you can get:
+The script will add a string in the console once it has processed the account, these are all the outputs that you can get:
 
 - Successfully processed {username}.
 
