@@ -58,10 +58,12 @@ The script will add a string in the console once it has processed the account, t
     The username is incorrect or termed
 
 # Contributors
-https://github.com/TheKing7337
+theking7337#0 (https://github.com/TheKing7337)
+
 Gave me the idea (and the money) to work on this
 
 Danonino
+
 Gave me the solution to the main issue of the API and helped in the coding process
 
 
