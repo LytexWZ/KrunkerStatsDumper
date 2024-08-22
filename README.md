@@ -66,6 +66,10 @@ Danonino
 
 Gave me the solution to the main issue of the API and helped in the coding process
 
+Wayne
+
+Corrected my terrible english 
+
 
 
 
