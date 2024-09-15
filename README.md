@@ -58,7 +58,7 @@ The script will add a string in the console once it has processed the account, t
     The username is incorrect or termed
 
 # Contributors
-theking7337#0 (https://github.com/TheKing7337)
+theking7337#0
 
 Gave me the idea (then exit scammed) to work on this. Making it public bc I got no payment after 1 month
 
